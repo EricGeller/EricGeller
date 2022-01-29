@@ -1,4 +1,4 @@
-### Hi there, I am Rae 👋
+### Hi there, I am Eric 👋
 
 <a href="github.com/la-vie-de-chat">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiZhang2Penn&theme=great-gatsby&showicons=true)](https://github.com/RuiZhang2Penn/github-readme-stats" alt="Rui's Top Langs" />
@@ -17,7 +17,6 @@
 * 👨‍💻 Teaching Assistant at CIS department (Penn Engineering School)
 * 📖 Coursework: Data Structure & Software Design, Algorithm & Computation, Computer System Programming
 
-**Reach out to me via:** [LinkedIn](linkedin.com/in/rui-zhang-12122022/)
 
 #### Languages & Tools
 
