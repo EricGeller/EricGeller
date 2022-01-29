@@ -1,7 +1,7 @@
 ### Hi there, I am Eric 👋
 
 <a href="github.com/la-vie-de-chat">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiZhang2Penn&theme=great-gatsby&showicons=true)](https://github.com/RuiZhang2Penn/github-readme-stats" alt="Rui's Top Langs" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricGeller&theme=great-gatsby&showicons=true)](https://github.com/EricGeller/github-readme-stats" alt="Eric's Top Langs" />
 </a>
 
 <br/>
