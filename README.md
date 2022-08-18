@@ -1,18 +1,18 @@
 ### Hi there, I am Eric 👋
 
-
 <br/>
 <br/>
 
 **Something about me:**
 
 * 🎓 Penn MCIT Class of 2022
-* ✨ Aspiring Full-stack Software Engineer • Team Player
+* 💻 Ex SDE intern in AWS
+* ✨ Aspiring Software Engineer • Team Player
 
 **Currently working on:**
 
-* 👨‍💻 Teaching Assistant at CIS department (Penn Engineering School)
-* 📖 Coursework: Data Structure & Software Design, Algorithm & Computation, Computer System Programming
+* 👨‍💻 Head Teaching Assistant at CIS department (Penn Engineering School)
+* 📖 Coursework: Data Structure & Software Design, Algorithm & Computation, Computer System Programming, Programming for the web, Database & Information System, Big Data Analytics
 
 
 #### Languages & Tools
