@@ -1,5 +1,5 @@
 ### Hi there, I am Eric 👋
-<br/>
+
 <br/>
 
 **Something about me:**
