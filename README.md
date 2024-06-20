@@ -5,7 +5,7 @@
 **Something about me:**
 
 * 🎓 Penn MCIT Class of 2022
-* 💻 Ex SDE intern in AWS
+* 💻 Ex SDE intern and Current SDE in AWS
 * ✨ Aspiring Software Engineer • Team Player
 
 **Currently working on:**
